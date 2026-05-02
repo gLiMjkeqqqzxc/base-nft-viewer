@@ -11,3 +11,6 @@ The app uses a public NFT API to fetch tokens owned by a wallet address.
 1. Open index.html
 2. Enter wallet address
 3. Click Load NFTs
+## Purpose
+
+Created as part of learning and exploring NFT infrastructure on Base.
