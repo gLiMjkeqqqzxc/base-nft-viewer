@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+input, button {
+    padding: 8px;
+    margin: 5px 0;
+}
+
+#nfts {
+    margin-top: 20px;
+}
